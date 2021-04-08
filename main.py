@@ -1,4 +1,4 @@
-program = int(input("Which part are you testing? Type in 1, 2, 3, 4, or 5."))
+program = int(input("Which part are you testing? Type in 1, 2, 3, 4, or 5. "))
 
 if program == 1:
   import part1
